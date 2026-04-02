@@ -1,0 +1,15 @@
+{
+  "name": "trab-algoritmos",
+  "version": "1.0.0",
+  "description": "Trabalho 1",
+  "license": "ISC",
+  "author": "Gustavo Câmara",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
